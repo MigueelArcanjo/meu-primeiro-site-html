@@ -1,2 +1,2 @@
 # meu-primeiro-site-html
-atividade1 samuel 06/08/2026
+atividade 1 Samuel 06/08/2026
